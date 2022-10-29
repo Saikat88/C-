@@ -56,4 +56,4 @@ To get approval of the pull request much quick 🚀
 
 </tr>
 
-Vote of thanks to all the contributors and the maintaineer for such a beginner friendly respository with swift merges.
+Vote of thanks to all the contributors and the maintaineer for such a beginner friendly respository with swift merges.  
